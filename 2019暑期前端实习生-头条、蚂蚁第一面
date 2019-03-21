@@ -1,0 +1,22 @@
+## 头条视频面试
+* 水平化垂直居中
+* JS基本数据类型
+* 如何判断对象类型
+* 其中，Object.prototype.toString.call(),为什么要用toString()方法
+* Symbol的作用及应用场景
+* 编程题：用链表实现栈
+* Java实现目录文件拷贝
+* Java中的hashmap底层原理
+* JS实现深拷贝
+* TCP的三次握手
+* TCP与UDP的区别
+* TCP为什么可靠
+* Websocket
+
+## 蚂蚁电话面
+* 闭包
+* JS单线程
+* EventLoop
+* 进程与线程的区别
+* OSI七层的作用
+* 各种排序算法的时间复杂度
