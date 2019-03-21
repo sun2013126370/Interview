@@ -18,5 +18,7 @@
 * JS单线程
 * EventLoop
 * 进程与线程的区别
+* http与https的区别
+* TCP与UDP的区别
 * OSI七层的作用
 * 各种排序算法的时间复杂度
